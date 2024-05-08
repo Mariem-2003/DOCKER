@@ -28,7 +28,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: |
-            my-repo:latest
+          tags: mariem906/my-repo:latest
+            
 
                 
